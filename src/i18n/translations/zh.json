@@ -1,0 +1,192 @@
+{
+  "common": {
+    "ok": "确定",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "update": "更新",
+    "continue": "继续",
+    "done": "完成",
+    "yes": "是",
+    "no": "否",
+    "search": "搜索",
+    "loading": "加载中...",
+    "noData": "暂无数据",
+    "analyze": "分析",
+    "med_analyzer": "药品分析器",
+    "food_analyzer": "食物分析器",
+    "takephoto": "拍照",
+    "uploadimage": "上传图片"
+  },
+
+  "onboarding": {
+    "title1": "永远不要忘记吃药",
+    "desc1": "为您的药物设置提醒，每天保持健康。",
+
+    "title2": "智能提醒",
+    "desc2": "在该吃药的时候准时收到通知。",
+
+    "title3": "跟踪您的健康",
+    "desc3": "监控您的用药情况并养成健康习惯。",
+
+    "skip": "跳过",
+    "next": "下一步",
+    "getStarted": "开始"
+  },
+
+  "auth": {
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出登录",
+
+    "username": "用户名",
+    "email": "电子邮箱",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+
+    "mpin": "MPIN",
+    "createMpin": "创建 MPIN",
+    "changeMpin": "更改 MPIN",
+    "enterMpin": "输入 MPIN",
+
+    "loginWithPassword": "使用用户名和密码登录",
+    "loginWithMpin": "使用 MPIN 登录",
+
+    "forgotPassword": "忘记密码？",
+    "createAccount": "创建账户",
+    "alreadyAccount": "已有账户？登录",
+
+    "invalidLogin": "用户名或密码无效",
+    "passwordMismatch": "密码不匹配"
+  },
+
+  "home": {
+    "home": "首页",
+    "welcome": "欢迎",
+    "todayReminders": "今天的提醒",
+    "upcomingReminders": "即将到来的提醒",
+    "medicines": "药物",
+    "reminders": "提醒",
+    "addMedicine": "添加药物",
+    "addReminder": "添加提醒",
+    "noReminders": "今天没有提醒"
+  },
+
+  "medicine": {
+    "title": "药物",
+    "addMedicine": "添加药物",
+    "editMedicine": "编辑药物",
+    "deleteMedicine": "删除药物",
+
+    "medicineName": "药物名称",
+    "medicineType": "药物类型",
+    "dosage": "剂量",
+    "frequency": "频率",
+    "notes": "备注",
+
+    "tablet": "片剂",
+    "capsule": "胶囊",
+    "syrup": "糖浆",
+    "injection": "注射",
+    "drops": "滴剂",
+
+    "emptyTitle": "没有添加药物",
+    "emptySubtitle": "添加药物以管理您的治疗",
+    "totake": "这是服用时间",
+    "totake_default": "Shukr 提醒，这是关爱的时间"
+  },
+
+  "reminder": {
+    "title": "提醒",
+    "addReminder": "添加提醒",
+    "editReminder": "编辑提醒",
+    "deleteReminder": "删除提醒",
+
+    "medicine": "药物",
+    "time": "时间",
+    "date": "日期",
+    "repeat": "重复",
+    "everyday": "每天",
+    "customDays": "自定义日期",
+
+    "selectDays": "选择日期",
+    "selectTime": "选择时间",
+
+    "beforeMeal": "饭前",
+    "afterMeal": "饭后",
+
+    "takeMedicine": "该吃药了",
+
+    "emptyTitle": "还没有提醒",
+    "emptySubtitle": "创建提醒以免忘记吃药"
+  },
+
+  "days": {
+    "sun": "周日",
+    "mon": "周一",
+    "tue": "周二",
+    "wed": "周三",
+    "thu": "周四",
+    "fri": "周五",
+    "sat": "周六"
+  },
+
+  "notifications": {
+    "title": "用药提醒",
+    "body": "现在是吃药时间",
+    "taken": "已服用",
+    "skip": "跳过",
+    "snooze": "稍后提醒"
+  },
+
+  "profile": {
+    "title": "个人资料",
+    "editProfile": "编辑资料",
+
+    "name": "姓名",
+    "email": "电子邮箱",
+
+    "settings": "设置",
+    "theme": "主题",
+    "language": "语言",
+
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式",
+    "systemDefault": "系统默认"
+  },
+
+  "settings": {
+    "title": "设置",
+    "appearance": "外观",
+    "selectTheme": "选择主题",
+
+    "language": "语言",
+    "selectLanguage": "选择语言",
+
+    "notifications": "通知",
+    "enableNotifications": "启用通知"
+  },
+
+  "buttons": {
+    "login": "登录",
+    "register": "注册",
+    "add": "添加",
+    "create": "创建",
+    "update": "更新",
+    "save": "保存"
+  },
+
+  "errors": {
+    "requiredField": "此字段为必填项",
+    "invalidEmail": "无效的电子邮箱",
+    "networkError": "网络错误",
+    "somethingWrong": "发生错误"
+  },
+
+  "success": {
+    "medicineAdded": "药物添加成功",
+    "reminderAdded": "提醒创建成功",
+    "profileUpdated": "个人资料更新成功"
+  }
+}

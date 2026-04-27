@@ -1,0 +1,189 @@
+{
+  "common": {
+    "ok": "ठीक आहे",
+    "cancel": "रद्द करा",
+    "save": "जतन करा",
+    "delete": "हटवा",
+    "edit": "संपादित करा",
+    "update": "अपडेट करा",
+    "continue": "सुरू ठेवा",
+    "done": "पूर्ण",
+    "yes": "होय",
+    "no": "नाही",
+    "search": "शोधा",
+    "loading": "लोड होत आहे...",
+    "noData": "डेटा उपलब्ध नाही",
+    "analyze": "विश्लेषण करा",
+    "med_analyzer": "औषध विश्लेषक",
+    "food_analyzer": "अन्न विश्लेषक",
+    "takephoto": "फोटो काढा",
+    "uploadimage": "प्रतिमा अपलोड करा"
+  },
+
+  "onboarding": {
+    "title1": "तुमची औषधे कधीही चुकवू नका",
+    "desc1": "तुमच्या औषधांसाठी रिमाइंडर सेट करा आणि दररोज निरोगी रहा.",
+
+    "title2": "स्मार्ट रिमाइंडर",
+    "desc2": "औषध घेण्याची वेळ झाली की योग्य वेळी सूचना मिळवा.",
+
+    "title3": "तुमचे आरोग्य ट्रॅक करा",
+    "desc3": "औषध घेण्याची सवय ट्रॅक करा आणि निरोगी सवयी तयार करा.",
+
+    "skip": "वगळा",
+    "next": "पुढे",
+    "getStarted": "सुरू करा"
+  },
+
+  "auth": {
+    "login": "लॉगिन",
+    "register": "नोंदणी",
+    "logout": "लॉगआउट",
+
+    "username": "वापरकर्तानाव",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्डची पुष्टी करा",
+
+    "mpin": "एमपिन",
+    "createMpin": "एमपिन तयार करा",
+    "changeMpin": "एमपिन बदला",
+    "enterMpin": "एमपिन टाका",
+
+    "loginWithPassword": "वापरकर्तानाव आणि पासवर्डने लॉगिन करा",
+    "loginWithMpin": "एमपिनने लॉगिन करा",
+
+    "forgotPassword": "पासवर्ड विसरलात?",
+    "createAccount": "खाते तयार करा",
+    "alreadyAccount": "आधीच खाते आहे? लॉगिन करा",
+
+    "invalidLogin": "अवैध वापरकर्तानाव किंवा पासवर्ड",
+    "passwordMismatch": "पासवर्ड जुळत नाहीत"
+  },
+
+  "home": {
+    "home": "मुख्यपृष्ठ",
+    "welcome": "स्वागत आहे",
+    "todayReminders": "आजचे रिमाइंडर",
+    "upcomingReminders": "आगामी रिमाइंडर",
+    "medicines": "औषधे",
+    "reminders": "रिमाइंडर",
+    "addMedicine": "औषध जोडा",
+    "addReminder": "रिमाइंडर जोडा",
+    "noReminders": "आजसाठी कोणतेही रिमाइंडर नाहीत"
+  },
+
+  "medicine": {
+    "title": "औषधे",
+    "addMedicine": "औषध जोडा",
+    "editMedicine": "औषध संपादित करा",
+    "deleteMedicine": "औषध हटवा",
+
+    "medicineName": "औषधाचे नाव",
+    "medicineType": "औषधाचा प्रकार",
+    "dosage": "डोस",
+    "frequency": "वारंवारता",
+    "notes": "नोंदी",
+
+    "tablet": "गोळी",
+    "capsule": "कॅप्सूल",
+    "syrup": "सिरप",
+    "injection": "इंजेक्शन",
+    "drops": "थेंब",
+
+    "emptyTitle": "कोणतेही औषध जोडलेले नाही",
+    "emptySubtitle": "तुमच्या उपचारांचे व्यवस्थापन करण्यासाठी औषधे जोडा",
+    "totake": "ही वेळ घेण्याची आहे",
+    "totake_default": "शुक्र रिमाइंडर, ही वेळ काळजी घेण्याची आहे"
+  },
+
+  "reminder": {
+    "title": "रिमाइंडर",
+    "addReminder": "रिमाइंडर जोडा",
+    "editReminder": "रिमाइंडर संपादित करा",
+    "deleteReminder": "रिमाइंडर हटवा",
+
+    "medicine": "औषध",
+    "time": "वेळ",
+    "date": "तारीख",
+    "repeat": "पुन्हा करा",
+    "everyday": "दररोज",
+    "customDays": "सानुकूल दिवस",
+
+    "selectDays": "दिवस निवडा",
+    "selectTime": "वेळ निवडा",
+
+    "beforeMeal": "जेवणापूर्वी",
+    "afterMeal": "जेवणानंतर",
+
+    "takeMedicine": "औषध घेण्याची वेळ"
+  },
+
+  "days": {
+    "sun": "रवि",
+    "mon": "सोम",
+    "tue": "मंगळ",
+    "wed": "बुध",
+    "thu": "गुरु",
+    "fri": "शुक्र",
+    "sat": "शनि"
+  },
+
+  "notifications": {
+    "title": "औषध रिमाइंडर",
+    "body": "औषध घेण्याची वेळ झाली आहे",
+    "taken": "घेतले",
+    "skip": "वगळा",
+    "snooze": "थोडा वेळ थांबा"
+  },
+
+  "profile": {
+    "title": "प्रोफाइल",
+    "editProfile": "प्रोफाइल संपादित करा",
+
+    "name": "नाव",
+    "email": "ईमेल",
+
+    "settings": "सेटिंग्स",
+    "theme": "थीम",
+    "language": "भाषा",
+
+    "darkMode": "डार्क मोड",
+    "lightMode": "लाईट मोड",
+    "systemDefault": "सिस्टम डीफॉल्ट"
+  },
+
+  "settings": {
+    "title": "सेटिंग्स",
+    "appearance": "देखावा",
+    "selectTheme": "थीम निवडा",
+
+    "language": "भाषा",
+    "selectLanguage": "भाषा निवडा",
+
+    "notifications": "सूचना",
+    "enableNotifications": "सूचना सक्षम करा"
+  },
+
+  "buttons": {
+    "login": "लॉगिन",
+    "register": "नोंदणी",
+    "add": "जोडा",
+    "create": "तयार करा",
+    "update": "अपडेट करा",
+    "save": "जतन करा"
+  },
+
+  "errors": {
+    "requiredField": "ही फील्ड आवश्यक आहे",
+    "invalidEmail": "अवैध ईमेल पत्ता",
+    "networkError": "नेटवर्क त्रुटी आली",
+    "somethingWrong": "काहीतरी चूक झाली"
+  },
+
+  "success": {
+    "medicineAdded": "औषध यशस्वीरित्या जोडले",
+    "reminderAdded": "रिमाइंडर यशस्वीरित्या तयार केले",
+    "profileUpdated": "प्रोफाइल यशस्वीरित्या अपडेट झाले"
+  }
+}

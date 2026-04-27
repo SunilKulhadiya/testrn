@@ -1,0 +1,192 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "update": "Actualizar",
+    "continue": "Continuar",
+    "done": "Hecho",
+    "yes": "Sí",
+    "no": "No",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "noData": "No hay datos disponibles",
+    "analyze": "Analizar",
+    "med_analyzer": "Analizador de Medicamentos",
+    "food_analyzer": "Analizador de Alimentos",
+    "takephoto": "Tomar foto",
+    "uploadimage": "Subir imagen"    
+  },
+
+  "onboarding": {
+    "title1": "Nunca olvides tus medicamentos",
+    "desc1": "Configura recordatorios para tus medicamentos y mantente saludable cada día.",
+
+    "title2": "Recordatorios inteligentes",
+    "desc2": "Recibe notificaciones justo cuando sea hora de tomar tu medicamento.",
+
+    "title3": "Controla tu salud",
+    "desc3": "Supervisa tu consumo de medicamentos y crea hábitos saludables.",
+
+    "skip": "Saltar",
+    "next": "Siguiente",
+    "getStarted": "Comenzar"
+  },
+
+  "auth": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+
+    "username": "Nombre de usuario",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+
+    "mpin": "MPIN",
+    "createMpin": "Crear MPIN",
+    "changeMpin": "Cambiar MPIN",
+    "enterMpin": "Ingresar MPIN",
+
+    "loginWithPassword": "Iniciar sesión con usuario y contraseña",
+    "loginWithMpin": "Iniciar sesión con MPIN",
+
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "createAccount": "Crear cuenta",
+    "alreadyAccount": "¿Ya tienes una cuenta? Inicia sesión",
+
+    "invalidLogin": "Usuario o contraseña inválidos",
+    "passwordMismatch": "Las contraseñas no coinciden"
+  },
+
+  "home": {
+    "home": "Inicio",
+    "welcome": "Bienvenido",
+    "todayReminders": "Recordatorios de hoy",
+    "upcomingReminders": "Próximos recordatorios",
+    "medicines": "Medicamentos",
+    "reminders": "Recordatorios",
+    "addMedicine": "Agregar medicamento",
+    "addReminder": "Agregar recordatorio",
+    "noReminders": "No hay recordatorios para hoy"
+  },
+
+  "medicine": {
+    "title": "Medicamentos",
+    "addMedicine": "Agregar medicamento",
+    "editMedicine": "Editar medicamento",
+    "deleteMedicine": "Eliminar medicamento",
+
+    "medicineName": "Nombre del medicamento",
+    "medicineType": "Tipo de medicamento",
+    "dosage": "Dosis",
+    "frequency": "Frecuencia",
+    "notes": "Notas",
+
+    "tablet": "Tableta",
+    "capsule": "Cápsula",
+    "syrup": "Jarabe",
+    "injection": "Inyección",
+    "drops": "Gotas",
+
+    "emptyTitle": "No hay medicamentos añadidos",
+    "emptySubtitle": "Agrega medicamentos para gestionar tu tratamiento",
+    "totake": "Es momento de tomarlo",
+    "totake_default": "Recordatorio de Shukr, es momento de cuidarse"
+  },
+
+  "reminder": {
+    "title": "Recordatorios",
+    "addReminder": "Agregar recordatorio",
+    "editReminder": "Editar recordatorio",
+    "deleteReminder": "Eliminar recordatorio",
+
+    "medicine": "Medicamento",
+    "time": "Hora",
+    "date": "Fecha",
+    "repeat": "Repetir",
+    "everyday": "Todos los días",
+    "customDays": "Días personalizados",
+
+    "selectDays": "Seleccionar días",
+    "selectTime": "Seleccionar hora",
+
+    "beforeMeal": "Antes de comer",
+    "afterMeal": "Después de comer",
+
+    "takeMedicine": "Es hora de tomar tu medicamento",
+
+    "emptyTitle": "Aún no hay recordatorios",
+    "emptySubtitle": "Crea un recordatorio para no olvidar tu medicamento"
+  },
+
+  "days": {
+    "sun": "Dom",
+    "mon": "Lun",
+    "tue": "Mar",
+    "wed": "Mié",
+    "thu": "Jue",
+    "fri": "Vie",
+    "sat": "Sáb"
+  },
+
+  "notifications": {
+    "title": "Recordatorio de medicamento",
+    "body": "Es hora de tomar tu medicamento",
+    "taken": "Tomado",
+    "skip": "Saltar",
+    "snooze": "Posponer"
+  },
+
+  "profile": {
+    "title": "Perfil",
+    "editProfile": "Editar perfil",
+
+    "name": "Nombre",
+    "email": "Correo electrónico",
+
+    "settings": "Configuración",
+    "theme": "Tema",
+    "language": "Idioma",
+
+    "darkMode": "Modo oscuro",
+    "lightMode": "Modo claro",
+    "systemDefault": "Predeterminado del sistema"
+  },
+
+  "settings": {
+    "title": "Configuración",
+    "appearance": "Apariencia",
+    "selectTheme": "Seleccionar tema",
+
+    "language": "Idioma",
+    "selectLanguage": "Seleccionar idioma",
+
+    "notifications": "Notificaciones",
+    "enableNotifications": "Habilitar notificaciones"
+  },
+
+  "buttons": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "add": "Agregar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "save": "Guardar"
+  },
+
+  "errors": {
+    "requiredField": "Este campo es obligatorio",
+    "invalidEmail": "Correo electrónico inválido",
+    "networkError": "Ocurrió un error de red",
+    "somethingWrong": "Algo salió mal"
+  },
+
+  "success": {
+    "medicineAdded": "Medicamento agregado con éxito",
+    "reminderAdded": "Recordatorio creado con éxito",
+    "profileUpdated": "Perfil actualizado con éxito"
+  }
+}

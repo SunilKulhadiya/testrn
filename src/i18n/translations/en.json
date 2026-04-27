@@ -1,0 +1,197 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "update": "Update",
+    "continue": "Continue",
+    "done": "Done",
+    "yes": "Yes",
+    "no": "No",
+    "search": "Search",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "analyze": "Analyze",
+    "med_analyzer": "Medicine Analyzer",
+    "food_analyzer": "Food Analyzer",
+    "takephoto": "Take Photo",
+    "uploadimage": "Upload Image"
+},
+
+  "onboarding": {
+    "title1": "Never miss your medicines",
+    "desc1": "Set reminders for your medicines and stay healthy every day.",
+
+    "title2": "Smart reminders",
+    "desc2": "Get notifications exactly when it’s time to take your medicine.",
+
+    "title3": "Track your health",
+    "desc3": "Monitor your medicine intake and build healthy habits.",
+
+    "skip": "Skip",
+    "next": "Next",
+    "getStarted": "Get Started"
+  },
+
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+
+    "mpin": "MPIN",
+    "createMpin": "Create MPIN",
+    "changeMpin": "Change MPIN",
+    "enterMpin": "Enter MPIN",
+
+    "loginWithPassword": "Login with Username & Password",
+    "loginWithMpin": "Login with MPIN",
+
+    "forgotPassword": "Forgot Password?",
+    "createAccount": "Create Account",
+    "alreadyAccount": "Already have an account? Login",
+
+    "invalidLogin": "Invalid username or password",
+    "passwordMismatch": "Passwords do not match"
+  },
+
+  "home": {
+    "view": "View",
+    "home": "Home",
+    "welcome": "Welcome",
+    "todayReminders": "Today's Reminders",
+    "upcomingReminders": "Upcoming Reminders",
+    "medicines": "Medicines",
+    "reminders": "Reminders",
+    "addMedicine": "Add Medicine",
+    "addReminder": "Add Reminder",
+    "noReminders": "No reminders for today"
+  },
+
+  "medicine": {
+    "title": "Medicines",
+    "addMedicine": "Add Medicine",
+    "editMedicine": "Edit Medicine",
+    "deleteMedicine": "Delete Medicine",
+
+    "medicineName": "Medicine Name",
+    "medicineType": "Medicine Type",
+    "dosage": "Dosage",
+    "frequency": "Frequency",
+    "notes": "Notes",
+
+    "tablet": "Tablet",
+    "capsule": "Capsule",
+    "syrup": "Syrup",
+    "injection": "Injection",
+    "drops": "Drops",
+
+    "emptyTitle": "No medicines added",
+    "emptySubtitle": "Add medicines to manage your treatment",
+    "totake": "This time is to take",
+    "totake_default": "Shukr reminder this time to take care"
+  },
+
+  "reminder": {
+    "title": "Reminders",
+    "addReminder": "Add Reminder",
+    "editReminder": "Edit Reminder",
+    "deleteReminder": "Delete Reminder",
+
+    "medicine": "Medicine",
+    "time": "Time",
+    "date": "Date",
+    "repeat": "Repeat",
+    "everyday": "Everyday",
+    "customDays": "Custom Days",
+
+    "selectDays": "Select Days",
+    "selectTime": "Select Time",
+
+    "beforeMeal": "Before Meal",
+    "afterMeal": "After Meal",
+
+    "takeMedicine": "Time to take your medicine",
+
+    "emptyTitle": "No reminders yet",
+    "emptySubtitle": "Create a reminder so you never miss your medicine"
+  },
+
+  "more": {
+    "title": "More"
+  },
+  "days": {
+    "sun": "Sun",
+    "mon": "Mon",
+    "tue": "Tue",
+    "wed": "Wed",
+    "thu": "Thu",
+    "fri": "Fri",
+    "sat": "Sat"
+  },
+
+  "notifications": {
+    "title": "Medicine Reminder",
+    "body": "It's time to take your medicine",
+    "taken": "Taken",
+    "skip": "Skip",
+    "snooze": "Snooze"
+  },
+
+  "profile": {
+    "title": "Profile",
+    "editProfile": "Edit Profile",
+
+    "name": "Name",
+    "email": "Email",
+
+    "settings": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "systemDefault": "System Default"
+  },
+
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "selectTheme": "Select Theme",
+
+    "language": "Language",
+    "selectLanguage": "Select Language",
+
+    "notifications": "Notifications",
+    "enableNotifications": "Enable Notifications"
+  },
+
+  "buttons": {
+    "login": "Login",
+    "register": "Register",
+    "add": "Add",
+    "create": "Create",
+    "update": "Update",
+    "save": "Save"
+  },
+
+  "errors": {
+    "requiredField": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "networkError": "Network error occurred",
+    "somethingWrong": "Something went wrong"
+  },
+
+  "success": {
+    "medicineAdded": "Medicine added successfully",
+    "reminderAdded": "Reminder created successfully",
+    "profileUpdated": "Profile updated successfully"
+  },
+  "other": "Other"
+}

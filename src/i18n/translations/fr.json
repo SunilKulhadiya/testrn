@@ -1,0 +1,192 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "update": "Mettre à jour",
+    "continue": "Continuer",
+    "done": "Terminé",
+    "yes": "Oui",
+    "no": "Non",
+    "search": "Rechercher",
+    "loading": "Chargement...",
+    "noData": "Aucune donnée disponible",
+    "analyze": "Analyser",
+    "med_analyzer": "Analyseur de Médicaments",
+    "food_analyzer": "Analyseur d'Aliments",
+    "takephoto": "Prendre une photo",
+    "uploadimage": "Télécharger une image"
+  },
+
+  "onboarding": {
+    "title1": "Ne manquez jamais vos médicaments",
+    "desc1": "Définissez des rappels pour vos médicaments et restez en bonne santé chaque jour.",
+
+    "title2": "Rappels intelligents",
+    "desc2": "Recevez des notifications exactement quand il est temps de prendre votre médicament.",
+
+    "title3": "Suivez votre santé",
+    "desc3": "Surveillez votre prise de médicaments et adoptez des habitudes saines.",
+
+    "skip": "Passer",
+    "next": "Suivant",
+    "getStarted": "Commencer"
+  },
+
+  "auth": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+
+    "username": "Nom d'utilisateur",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+
+    "mpin": "MPIN",
+    "createMpin": "Créer un MPIN",
+    "changeMpin": "Changer le MPIN",
+    "enterMpin": "Entrer le MPIN",
+
+    "loginWithPassword": "Connexion avec nom d'utilisateur et mot de passe",
+    "loginWithMpin": "Connexion avec MPIN",
+
+    "forgotPassword": "Mot de passe oublié ?",
+    "createAccount": "Créer un compte",
+    "alreadyAccount": "Vous avez déjà un compte ? Connexion",
+
+    "invalidLogin": "Nom d'utilisateur ou mot de passe invalide",
+    "passwordMismatch": "Les mots de passe ne correspondent pas"
+  },
+
+  "home": {
+    "home": "Accueil",
+    "welcome": "Bienvenue",
+    "todayReminders": "Rappels d'aujourd'hui",
+    "upcomingReminders": "Rappels à venir",
+    "medicines": "Médicaments",
+    "reminders": "Rappels",
+    "addMedicine": "Ajouter un médicament",
+    "addReminder": "Ajouter un rappel",
+    "noReminders": "Aucun rappel pour aujourd'hui"
+  },
+
+  "medicine": {
+    "title": "Médicaments",
+    "addMedicine": "Ajouter un médicament",
+    "editMedicine": "Modifier le médicament",
+    "deleteMedicine": "Supprimer le médicament",
+
+    "medicineName": "Nom du médicament",
+    "medicineType": "Type de médicament",
+    "dosage": "Dosage",
+    "frequency": "Fréquence",
+    "notes": "Notes",
+
+    "tablet": "Comprimé",
+    "capsule": "Capsule",
+    "syrup": "Sirop",
+    "injection": "Injection",
+    "drops": "Gouttes",
+
+    "emptyTitle": "Aucun médicament ajouté",
+    "emptySubtitle": "Ajoutez des médicaments pour gérer votre traitement",
+    "totake": "C'est le moment de le prendre",
+    "totake_default": "Rappel Shukr, c'est le moment de prendre soin de soi"
+  },
+
+  "reminder": {
+    "title": "Rappels",
+    "addReminder": "Ajouter un rappel",
+    "editReminder": "Modifier le rappel",
+    "deleteReminder": "Supprimer le rappel",
+
+    "medicine": "Médicament",
+    "time": "Heure",
+    "date": "Date",
+    "repeat": "Répéter",
+    "everyday": "Tous les jours",
+    "customDays": "Jours personnalisés",
+
+    "selectDays": "Sélectionner les jours",
+    "selectTime": "Sélectionner l'heure",
+
+    "beforeMeal": "Avant le repas",
+    "afterMeal": "Après le repas",
+
+    "takeMedicine": "Il est temps de prendre votre médicament",
+
+    "emptyTitle": "Aucun rappel pour le moment",
+    "emptySubtitle": "Créez un rappel pour ne jamais oublier votre médicament"
+  },
+
+  "days": {
+    "sun": "Dim",
+    "mon": "Lun",
+    "tue": "Mar",
+    "wed": "Mer",
+    "thu": "Jeu",
+    "fri": "Ven",
+    "sat": "Sam"
+  },
+
+  "notifications": {
+    "title": "Rappel de médicament",
+    "body": "Il est temps de prendre votre médicament",
+    "taken": "Pris",
+    "skip": "Passer",
+    "snooze": "Reporter"
+  },
+
+  "profile": {
+    "title": "Profil",
+    "editProfile": "Modifier le profil",
+
+    "name": "Nom",
+    "email": "Email",
+
+    "settings": "Paramètres",
+    "theme": "Thème",
+    "language": "Langue",
+
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair",
+    "systemDefault": "Défaut du système"
+  },
+
+  "settings": {
+    "title": "Paramètres",
+    "appearance": "Apparence",
+    "selectTheme": "Sélectionner le thème",
+
+    "language": "Langue",
+    "selectLanguage": "Sélectionner la langue",
+
+    "notifications": "Notifications",
+    "enableNotifications": "Activer les notifications"
+  },
+
+  "buttons": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "add": "Ajouter",
+    "create": "Créer",
+    "update": "Mettre à jour",
+    "save": "Enregistrer"
+  },
+
+  "errors": {
+    "requiredField": "Ce champ est requis",
+    "invalidEmail": "Adresse email invalide",
+    "networkError": "Erreur réseau",
+    "somethingWrong": "Quelque chose s'est mal passé"
+  },
+
+  "success": {
+    "medicineAdded": "Médicament ajouté avec succès",
+    "reminderAdded": "Rappel créé avec succès",
+    "profileUpdated": "Profil mis à jour avec succès"
+  }
+}

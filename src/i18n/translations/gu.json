@@ -1,0 +1,189 @@
+{
+  "common": {
+    "ok": "બરાબર",
+    "cancel": "રદ કરો",
+    "save": "સેવ કરો",
+    "delete": "ડિલીટ કરો",
+    "edit": "એડિટ કરો",
+    "update": "અપડેટ કરો",
+    "continue": "ચાલુ રાખો",
+    "done": "પૂર્ણ",
+    "yes": "હા",
+    "no": "ના",
+    "search": "શોધો",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "noData": "ડેટા ઉપલબ્ધ નથી",
+    "analyze": "વિશ્લેષણ કરો",
+    "med_analyzer": "દવા વિશ્લેષક",
+    "food_analyzer": "ખોરાક વિશ્લેષક",
+    "takephoto": "ફોટો લો",
+    "uploadimage": "છબી અપલોડ કરો"
+  },
+
+  "onboarding": {
+    "title1": "તમારી દવાઓ ક્યારેય ભૂલશો નહીં",
+    "desc1": "તમારી દવાઓ માટે રિમાઇન્ડર સેટ કરો અને દરરોજ સ્વસ્થ રહો.",
+
+    "title2": "સ્માર્ટ રિમાઇન્ડર",
+    "desc2": "જ્યારે દવા લેવાની સમય થાય ત્યારે નોટિફિકેશન મેળવો.",
+
+    "title3": "તમારું આરોગ્ય ટ્રેક કરો",
+    "desc3": "દવા લેવાની આદત ટ્રેક કરો અને સ્વસ્થ આદતો બનાવો.",
+
+    "skip": "સ્કિપ",
+    "next": "આગળ",
+    "getStarted": "શરૂ કરો"
+  },
+
+  "auth": {
+    "login": "લોગિન",
+    "register": "રજિસ્ટર",
+    "logout": "લોગઆઉટ",
+
+    "username": "યૂઝરનેમ",
+    "email": "ઇમેઇલ",
+    "password": "પાસવર્ડ",
+    "confirmPassword": "પાસવર્ડની પુષ્ટિ કરો",
+
+    "mpin": "MPIN",
+    "createMpin": "MPIN બનાવો",
+    "changeMpin": "MPIN બદલો",
+    "enterMpin": "MPIN દાખલ કરો",
+
+    "loginWithPassword": "યૂઝરનેમ અને પાસવર્ડથી લોગિન કરો",
+    "loginWithMpin": "MPINથી લોગિન કરો",
+
+    "forgotPassword": "પાસવર્ડ ભૂલી ગયા?",
+    "createAccount": "એકાઉન્ટ બનાવો",
+    "alreadyAccount": "પહેલેથી એકાઉન્ટ છે? લોગિન કરો",
+
+    "invalidLogin": "અમાન્ય યુઝરનેમ અથવા પાસવર્ડ",
+    "passwordMismatch": "પાસવર્ડ મેળ ખાતા નથી"
+  },
+
+  "home": {
+    "home": "હોમ",
+    "welcome": "સ્વાગત છે",
+    "todayReminders": "આજના રિમાઇન્ડર",
+    "upcomingReminders": "આગામી રિમાઇન્ડર",
+    "medicines": "દવાઓ",
+    "reminders": "રિમાઇન્ડર",
+    "addMedicine": "દવા ઉમેરો",
+    "addReminder": "રિમાઇન્ડર ઉમેરો",
+    "noReminders": "આજે કોઈ રિમાઇન્ડર નથી"
+  },
+
+  "medicine": {
+    "title": "દવાઓ",
+    "addMedicine": "દવા ઉમેરો",
+    "editMedicine": "દવા એડિટ કરો",
+    "deleteMedicine": "દવા ડિલીટ કરો",
+
+    "medicineName": "દવાનું નામ",
+    "medicineType": "દવાનો પ્રકાર",
+    "dosage": "ડોઝ",
+    "frequency": "આવર્તન",
+    "notes": "નોંધ",
+
+    "tablet": "ટેબ્લેટ",
+    "capsule": "કેપ્સ્યુલ",
+    "syrup": "સિરપ",
+    "injection": "ઇન્જેક્શન",
+    "drops": "ડ્રોપ્સ",
+
+    "emptyTitle": "કોઈ દવા ઉમેરવામાં આવી નથી",
+    "emptySubtitle": "તમારા સારવાર માટે દવાઓ ઉમેરો",
+    "totake": "આ સમય લેવાનો છે",
+    "totake_default": "શુક્ર રિમાઇન્ડર, આ સમય કાળજી લેવાનો છે"
+  },
+
+  "reminder": {
+    "title": "રિમાઇન્ડર",
+    "addReminder": "રિમાઇન્ડર ઉમેરો",
+    "editReminder": "રિમાઇન્ડર એડિટ કરો",
+    "deleteReminder": "રિમાઇન્ડર ડિલીટ કરો",
+
+    "medicine": "દવા",
+    "time": "સમય",
+    "date": "તારીખ",
+    "repeat": "રીપીટ",
+    "everyday": "દરરોજ",
+    "customDays": "કસ્ટમ દિવસો",
+
+    "selectDays": "દિવસ પસંદ કરો",
+    "selectTime": "સમય પસંદ કરો",
+
+    "beforeMeal": "ભોજન પહેલા",
+    "afterMeal": "ભોજન પછી",
+
+    "takeMedicine": "દવા લેવાનો સમય"
+  },
+
+  "days": {
+    "sun": "રવિ",
+    "mon": "સોમ",
+    "tue": "મંગળ",
+    "wed": "બુધ",
+    "thu": "ગુરૂ",
+    "fri": "શુક્ર",
+    "sat": "શનિ"
+  },
+
+  "notifications": {
+    "title": "દવા રિમાઇન્ડર",
+    "body": "દવા લેવાનો સમય થયો છે",
+    "taken": "લીધી",
+    "skip": "સ્કિપ",
+    "snooze": "સ્નૂઝ"
+  },
+
+  "profile": {
+    "title": "પ્રોફાઇલ",
+    "editProfile": "પ્રોફાઇલ એડિટ કરો",
+
+    "name": "નામ",
+    "email": "ઇમેઇલ",
+
+    "settings": "સેટિંગ્સ",
+    "theme": "થીમ",
+    "language": "ભાષા",
+
+    "darkMode": "ડાર્ક મોડ",
+    "lightMode": "લાઇટ મોડ",
+    "systemDefault": "સિસ્ટમ ડિફોલ્ટ"
+  },
+
+  "settings": {
+    "title": "સેટિંગ્સ",
+    "appearance": "દેખાવ",
+    "selectTheme": "થીમ પસંદ કરો",
+
+    "language": "ભાષા",
+    "selectLanguage": "ભાષા પસંદ કરો",
+
+    "notifications": "નોટિફિકેશન",
+    "enableNotifications": "નોટિફિકેશન ચાલુ કરો"
+  },
+
+  "buttons": {
+    "login": "લોગિન",
+    "register": "રજિસ્ટર",
+    "add": "ઉમેરો",
+    "create": "બનાવો",
+    "update": "અપડેટ કરો",
+    "save": "સેવ કરો"
+  },
+
+  "errors": {
+    "requiredField": "આ ફીલ્ડ જરૂરી છે",
+    "invalidEmail": "અમાન્ય ઇમેઇલ સરનામું",
+    "networkError": "નેટવર્ક ભૂલ થઈ",
+    "somethingWrong": "કઈક ખોટું થયું"
+  },
+
+  "success": {
+    "medicineAdded": "દવા સફળતાપૂર્વક ઉમેરાઈ",
+    "reminderAdded": "રિમાઇન્ડર સફળતાપૂર્વક બનાવાયું",
+    "profileUpdated": "પ્રોફાઇલ સફળતાપૂર્વક અપડેટ થયું"
+  }
+}
